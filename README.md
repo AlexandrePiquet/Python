@@ -4,3 +4,4 @@ exercices et projets en Python, notamment :
 * de la chaîne Computerphile (https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 * de la chaîne  Python Programmer (https://www.youtube.com/c/FlickThrough)
 * de la vidéo Data Analysis with Python for Excel Users (https://www.youtube.com/watch?v=WcDaZ67TVRo&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=20)
+* de la vidéo  Data Analysis with Python Course - Numpy, Pandas, Data Visualization  (https://www.youtube.com/watch?v=GPVsHOlRBBI&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=6)
